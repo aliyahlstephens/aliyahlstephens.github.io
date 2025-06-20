@@ -31,4 +31,4 @@ build/
 .env.production.local
 
 # specstory
-.specstory/ 
+.specstory/
