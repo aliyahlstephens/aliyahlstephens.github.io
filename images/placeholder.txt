@@ -1,0 +1,1 @@
+You can add your images, like 'logo.svg' or 'profile_photo.jpg', in this directory. Then, you can reference them in your HTML files like this: <img src="images/your-image-filename.jpg" alt="Description">. 
